@@ -29,7 +29,7 @@ Static output is generated in `apps/web/out/`.
 	- Import the GitHub repo in Vercel.
 	- Set **Root Directory** to `apps/web`.
 	- Build Command: `npm run build`
-	- Output Directory: `out`
+	- Output Directory: (leave empty / default)
 	- (Optional) Env var: `NEXT_PUBLIC_SITE_URL` = your Vercel URL (e.g. `https://school-website.vercel.app`)
 
 - **GitHub Pages / Netlify / Cloudflare Pages**: upload the contents of `apps/web/out/`.
